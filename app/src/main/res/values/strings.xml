@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Workout Log 2.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="newWorkout">New Workout</string>
+    <string name="numExercises">Number of Exercises</string>
+    <string name="title">Title</string>
+    <string name="newUser">New User</string>
+    <string name="name">Name</string>
+    <string name="height">Height</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+    <string name="weight">Weight</string>
+    <string name="age">Age</string>
+    <string name="profile">Profile</string>
+    <string name="addWorkout">Add Workout</string>
+</resources>
